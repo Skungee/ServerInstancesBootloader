@@ -1,6 +1,5 @@
-name: Skungee
+name: ServerInstancesBootloader
 authors: [Skungee]
 version: @version@
 api-version: 1.13
-softdepend: [Skript]
-main: com.skungee.spigot.SpigotSkungee
+main: com.sitrica.serverinstances.Bootloader
